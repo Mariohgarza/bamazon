@@ -29,7 +29,7 @@ id  | product | department |   price   | Quantity
  Check out this video for a great demo of our bamazon app !
  
  
-   [![Demo bamazon](https://share.gifyoutube.com/KzB6Gb.gif)](https://youtu.be/DH35floT5YE)
+   [![Demo bamazon](https://share.gifyoutube.com/DH35floT5YE.gif)](https://youtu.be/DH35floT5YE)
  
  
 #### Our next step is to  create a Node application called bamazonCustomer.js. Running this application will first display all of the items available for sale. Include the ids, names, and prices of products for sale.
